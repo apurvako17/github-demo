@@ -14,3 +14,6 @@ def multiply(x,y) :
 def divide(x,y) :
 	pass
 
+#Cube implementaion
+def divide(x) :
+	return x*x*x
