@@ -14,3 +14,6 @@ def multiply(x,y) :
 def divide(x,y) :
 	pass
 
+#Square implentation
+def square(x):
+	return x*x
